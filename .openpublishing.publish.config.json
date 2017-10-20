@@ -34,10 +34,10 @@
         "SourceXmlFolder": "dotnet/xml",
         "OutputYamlFolder": "dotnet/api",
         "Flatten": true,
-        "id": "dotnet-template"
+        "id": "georgedotnet"
       },
       "SplitTOC": [
-        "dotnet/api/dotnet-template/toc.yml"
+        "dotnet/api/georgedotnet/toc.yml"
       ],
       "DiffFolder": [
         "dotnet/api"
